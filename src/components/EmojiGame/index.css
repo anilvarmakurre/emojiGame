@@ -1,0 +1,14 @@
+.bg-container {
+  background-color: #6a59ff;
+  height: 100vh;
+}
+.emoji-game {
+  margin-top: 20px;
+  width: 60vw;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
